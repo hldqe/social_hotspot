@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# 数据
+data/
+
+# 模型
+models/
+
+# 结果
+results/
+figures/
+saved_models/
+
+# 日志
+logs/
